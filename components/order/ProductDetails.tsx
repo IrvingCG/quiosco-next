@@ -47,6 +47,7 @@ export default function ProductDetails({item}: ProductDetailsProps) {
         <span className="font-normal"> 
          {formatCurrency(item.subtotal)}
         </span>
+        <p>dadad</p>
     </p>
   </div>
 </div>
